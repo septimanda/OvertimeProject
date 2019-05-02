@@ -1,0 +1,42 @@
+body{
+    background: #12125c;
+    box-sizing: border-box;
+}
+.login{
+    background: whitesmoke;
+    width: 500px;
+    padding: 75px 30px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    border-radius: 10px;
+}
+.image{
+    margin: auto;
+    width: 230px;
+    height: 230px;
+    border-radius: 50%;
+    background: #ddd;
+    background-image: url('image/mii.png');
+    background-size: 70%;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+
+
+/* input setting */
+input[type="text"],
+input[type="password"]{
+    border:none;
+    background: #ddd;
+    padding: 5px 5px;
+    font-size: 17px;
+    margin-bottom: 20px
+}
+input[type="text"]:focus,
+input[type="password"]:focus{
+    background: rgb(226, 226, 226);
+    /* border-bottom: 3px solid rgb(127, 209, 127); */
+}
