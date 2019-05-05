@@ -13,3 +13,18 @@ D:\Visual Studio 2015 Project\Projects\OvertimeProject\Data\obj\Debug\Data.pdb
 D:\Visual Studio 2015 Project\Projects\OvertimeProject\Data\obj\Debug\Data.Migrations.initialMigration.resources
 D:\Visual Studio 2015 Project\Projects\OvertimeProject\Data\obj\Debug\Data.csproj.GenerateResource.Cache
 D:\Visual Studio 2015 Project\Projects\OvertimeProject\Data\obj\Debug\Data.Migrations.firstMigrationChange.resources
+E:\B O O T C A M P\VISUALSTUDIO\Overtime\OvertimeProject\Data\bin\Debug\Data.exe.config
+E:\B O O T C A M P\VISUALSTUDIO\Overtime\OvertimeProject\Data\obj\Debug\Data.exe
+E:\B O O T C A M P\VISUALSTUDIO\Overtime\OvertimeProject\Data\obj\Debug\Data.pdb
+E:\B O O T C A M P\VISUALSTUDIO\Overtime\OvertimeProject\Data\bin\Debug\Data.exe
+E:\B O O T C A M P\VISUALSTUDIO\Overtime\OvertimeProject\Data\bin\Debug\Data.pdb
+E:\B O O T C A M P\VISUALSTUDIO\Overtime\OvertimeProject\Data\bin\Debug\Core.exe
+E:\B O O T C A M P\VISUALSTUDIO\Overtime\OvertimeProject\Data\bin\Debug\EntityFramework.dll
+E:\B O O T C A M P\VISUALSTUDIO\Overtime\OvertimeProject\Data\bin\Debug\EntityFramework.SqlServer.dll
+E:\B O O T C A M P\VISUALSTUDIO\Overtime\OvertimeProject\Data\bin\Debug\Core.pdb
+E:\B O O T C A M P\VISUALSTUDIO\Overtime\OvertimeProject\Data\bin\Debug\EntityFramework.xml
+E:\B O O T C A M P\VISUALSTUDIO\Overtime\OvertimeProject\Data\bin\Debug\EntityFramework.SqlServer.xml
+E:\B O O T C A M P\VISUALSTUDIO\Overtime\OvertimeProject\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache
+E:\B O O T C A M P\VISUALSTUDIO\Overtime\OvertimeProject\Data\obj\Debug\Data.Migrations.initialMigration.resources
+E:\B O O T C A M P\VISUALSTUDIO\Overtime\OvertimeProject\Data\obj\Debug\Data.Migrations.firstMigrationChange.resources
+E:\B O O T C A M P\VISUALSTUDIO\Overtime\OvertimeProject\Data\obj\Debug\Data.csproj.GenerateResource.Cache

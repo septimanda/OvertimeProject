@@ -8,3 +8,13 @@ D:\Visual Studio 2015 Project\Projects\OvertimeProject\Core\bin\Debug\EntityFram
 D:\Visual Studio 2015 Project\Projects\OvertimeProject\Core\bin\Debug\EntityFramework.SqlServer.dll
 D:\Visual Studio 2015 Project\Projects\OvertimeProject\Core\bin\Debug\EntityFramework.xml
 D:\Visual Studio 2015 Project\Projects\OvertimeProject\Core\bin\Debug\EntityFramework.SqlServer.xml
+E:\B O O T C A M P\VISUALSTUDIO\Overtime\OvertimeProject\Core\bin\Debug\Core.exe.config
+E:\B O O T C A M P\VISUALSTUDIO\Overtime\OvertimeProject\Core\bin\Debug\Core.exe
+E:\B O O T C A M P\VISUALSTUDIO\Overtime\OvertimeProject\Core\bin\Debug\Core.pdb
+E:\B O O T C A M P\VISUALSTUDIO\Overtime\OvertimeProject\Core\bin\Debug\EntityFramework.dll
+E:\B O O T C A M P\VISUALSTUDIO\Overtime\OvertimeProject\Core\bin\Debug\EntityFramework.SqlServer.dll
+E:\B O O T C A M P\VISUALSTUDIO\Overtime\OvertimeProject\Core\bin\Debug\EntityFramework.xml
+E:\B O O T C A M P\VISUALSTUDIO\Overtime\OvertimeProject\Core\bin\Debug\EntityFramework.SqlServer.xml
+E:\B O O T C A M P\VISUALSTUDIO\Overtime\OvertimeProject\Core\obj\Debug\Core.csprojResolveAssemblyReference.cache
+E:\B O O T C A M P\VISUALSTUDIO\Overtime\OvertimeProject\Core\obj\Debug\Core.exe
+E:\B O O T C A M P\VISUALSTUDIO\Overtime\OvertimeProject\Core\obj\Debug\Core.pdb
